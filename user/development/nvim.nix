@@ -85,6 +85,7 @@
           nil_ls.enable = true;
           lua_ls.enable = true;
           nushell.enable = true;
+          ols.enable = true;
           zls.enable = true;
         };
       };
@@ -212,7 +213,7 @@
       treesitter = {
         enable = true;
       };
-      
+
       treesitter-context = {
         enable = true;
       };
