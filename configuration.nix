@@ -17,6 +17,7 @@
     ./system/development/podman.nix
     ./system/development/languages.nix
     ./system/development/jetbrains.nix
+    ./system/development/tools.nix
     ./system/utilities/falkon.nix
     ./system/utilities/tor-browser.nix
     ./system/utilities/firefox.nix
