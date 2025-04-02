@@ -82,8 +82,8 @@
         enable = true;
 
         servers = {
-          nil_ls.enable = true;
           lua_ls.enable = true;
+          nil_ls.enable = true;
           nushell.enable = true;
           ols.enable = true;
           zls.enable = true;
