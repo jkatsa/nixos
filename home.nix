@@ -4,7 +4,7 @@
   imports = [
     ./user/development/git.nix
     ./user/development/nvim.nix
-    ./user/applications/social/social.nix
+    ./user/social/social.nix
     ./user/media/media.nix
     ./user/applications/utilities/bitwarden.nix
     ./user/applications/utilities/syncthing.nix
