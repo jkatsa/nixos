@@ -21,7 +21,6 @@
     ./system/utilities/tor-browser.nix
     ./system/utilities/firefox.nix
     ./system/utilities/filelight.nix
-    ./system/utilities/syncthing.nix
     ./system/utilities/libreoffice.nix
     ./system/applications/games/games.nix
   ];

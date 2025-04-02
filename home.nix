@@ -7,6 +7,7 @@
     ./user/applications/social/social.nix
     ./user/applications/media/media.nix
     ./user/applications/utilities/bitwarden.nix
+    ./user/applications/utilities/syncthing.nix
     ./user/applications/utilities/yt-dlp.nix
     ./user/applications/utilities/filezilla.nix
   ];
