@@ -23,7 +23,7 @@
     ./system/utilities/firefox.nix
     ./system/utilities/filelight.nix
     ./system/utilities/libreoffice.nix
-    ./system/applications/games/games.nix
+    ./system/games/games.nix
   ];
 
   # Bootloader.
