@@ -6,10 +6,10 @@
     ./user/development/nvim.nix
     ./user/social/social.nix
     ./user/media/media.nix
-    ./user/applications/utilities/bitwarden.nix
-    ./user/applications/utilities/syncthing.nix
-    ./user/applications/utilities/yt-dlp.nix
-    ./user/applications/utilities/filezilla.nix
+    ./user/utilities/bitwarden.nix
+    ./user/utilities/syncthing.nix
+    ./user/utilities/yt-dlp.nix
+    ./user/utilities/filezilla.nix
   ];
 
   # Home Manager needs a bit of information about you and the paths it should
