@@ -5,7 +5,7 @@
     ./user/development/git.nix
     ./user/development/nvim.nix
     ./user/applications/social/social.nix
-    ./user/applications/media/media.nix
+    ./user/media/media.nix
     ./user/applications/utilities/bitwarden.nix
     ./user/applications/utilities/syncthing.nix
     ./user/applications/utilities/yt-dlp.nix
