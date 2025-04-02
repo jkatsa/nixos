@@ -16,10 +16,12 @@
     ./system/development/terminal.nix
     ./system/development/podman.nix
     ./system/development/languages.nix
+    ./system/development/jetbrains.nix
     ./system/utilities/falkon.nix
     ./system/utilities/tor-browser.nix
     ./system/utilities/firefox.nix
     ./system/utilities/filelight.nix
+    ./system/utilities/libreoffice.nix
     ./system/applications/games/games.nix
   ];
 
